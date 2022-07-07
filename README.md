@@ -8,7 +8,7 @@ For this project we were asked to refractor previous code from our school distri
 - **How is the district summary affected?**
     - The largest difference in the district summary is the total number of students changing from 39170 to 38709 which was caused by replacing ninth grade values with NaN. 
 - **How is the school summary affected?**
-    - Upon removing  the 9th graders, There was only a slight change in the overall, math, and overall percentage scores.  Images are below  This result tells me that 9th graders did not significantly overpreform the other grades when they cheated.  In the spirit of the budget analysis, the schoole board could make the decision that the determined "per student budget" should stay $638 for Thomas High.  the logic here is that the school preformed at a similar level.
+    - Upon removing  the 9th graders, There was only a slight change in the overall, math, and overall percentage scores.  Images are below  This result tells me that 9th graders did not significantly overpreform the other grades when they cheated.  In the spirit of the budget analysis, the schoole board could make the decision that the determined "per student budget" should stay $638 for Thomas High.  The logic here is that the school preformed at a similar level.
 ![](Resources/new_summary.png)
 - **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
     - Looking at all metrics and schools, removing nith graders has not significantly changes Thomas High's performance
